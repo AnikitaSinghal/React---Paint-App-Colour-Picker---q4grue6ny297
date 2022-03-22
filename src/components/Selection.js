@@ -1,5 +1,5 @@
 import React from "react";
-function Selection(props){
+function Selection(){
     return(
         <div class="fix-box" onClick={()=>
             {applyColor}}>
